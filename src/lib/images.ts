@@ -71,7 +71,7 @@ const obras: ObraImage[] = [
   },
   {
     id: "p5",
-    src: "https://images.unsplash.com/photo-1549887534-1541e9326642?w=800&q=80",
+    src: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80",
     alt: "Paisaje al óleo",
     title: "Cordillera Interior",
     description: "Óleo sobre lienzo. Paisaje de la memoria con capas de color y luz.",
@@ -82,7 +82,7 @@ const obras: ObraImage[] = [
   },
   {
     id: "p6",
-    src: "https://images.unsplash.com/photo-1571115764595-644e7a10abf6?w=800&q=80",
+    src: "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?w=800&q=80",
     alt: "Abstracto geométrico",
     title: "Estructura del Gesto",
     description: "Acrílico y carboncillo sobre papel. Estudio de la línea y el vacío.",
@@ -115,7 +115,7 @@ const obras: ObraImage[] = [
   },
   {
     id: "a3",
-    src: "https://images.unsplash.com/photo-1591101763687-12a4a90a8e1f?w=800&q=80",
+    src: "https://images.unsplash.com/photo-1517457373958-b7bdd4587205?w=800&q=80",
     alt: "Cerámica artesanal",
     title: "Recipiente del Alma",
     description: "Artesanía en gres esmaltado a mano. Serie de piezas utilitarias con diseño orgánico.",
@@ -137,7 +137,7 @@ const obras: ObraImage[] = [
   },
   {
     id: "a5",
-    src: "https://images.unsplash.com/photo-1593012048886-b0c988fac9f4?w=800&q=80",
+    src: "https://images.unsplash.com/photo-1515405295579-ba7b45403062?w=800&q=80",
     alt: "Artesanía de papel",
     title: "Pliegues del Ser",
     description: "Escultura en papel hecho a mano con fibras vegetales y pigmentos naturales.",
@@ -148,7 +148,7 @@ const obras: ObraImage[] = [
   },
   {
     id: "a6",
-    src: "https://images.unsplash.com/photo-1605729656580-0b1a3545e28d?w=800&q=80",
+    src: "https://images.unsplash.com/photo-1549490349-8643362247b5?w=800&q=80",
     alt: "Artesanía mixta",
     title: "Raíz y Forma",
     description: "Técnica mixta artesanal con maderas recicladas, fibras y pigmentos naturales.",
