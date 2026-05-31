@@ -2,16 +2,16 @@ import Link from "next/link";
 import Image from "next/image";
 import { GalleryGrid } from "@/components/GalleryGrid";
 import { obraImagesToGallery } from "@/lib/adapters";
-import { getAllObras } from "@/lib/images";
+import { getFeaturedObras } from "@/lib/images";
 
 export default function Home() {
-  const obras = getAllObras();
+  const featured = getFeaturedObras(6);
 
   return (
     <>
       <section className="relative flex min-h-[80dvh] items-center justify-center overflow-hidden">
         <Image
-          src={obras[0].src}
+          src={featured[0].src}
           alt=""
           fill
           className="object-cover brightness-[0.35]"
@@ -92,7 +92,7 @@ export default function Home() {
                 Obras Destacadas
               </h2>
               <p className="mt-2 text-stone-500 dark:text-stone-400">
-                Una selección de pinturas y artesanías
+                Una selección de pinturas
               </p>
             </div>
             <Link
@@ -102,7 +102,7 @@ export default function Home() {
               Ver todo →
             </Link>
           </div>
-          <GalleryGrid images={obraImagesToGallery(obras.slice(0, 6))} />
+          <GalleryGrid images={obraImagesToGallery(featured)} />
           <div className="mt-8 text-center sm:hidden">
             <Link
               href="/obras"
