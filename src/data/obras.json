@@ -1,0 +1,226 @@
+{
+  "pinturas": [
+    {
+      "id": "p01",
+      "imagen": "/obras/temple.jpg",
+      "titulo": "Temple",
+      "descripcion": "Técnica mixta sobre lienzo",
+      "tecnica": "Técnica mixta sobre lienzo",
+      "dimensiones": "60 × 80 cm"
+    },
+    {
+      "id": "p02",
+      "imagen": "/obras/desnudo-rojo-chagall.jpg",
+      "titulo": "Desnudo rojo sentado",
+      "descripcion": "Reproducción de Chagall. Témpera con huevo sobre lienzo.",
+      "tecnica": "Témpera con huevo sobre lienzo",
+      "dimensiones": "60 × 80 cm"
+    },
+    {
+      "id": "p03",
+      "imagen": "/obras/bodegon.jpg",
+      "titulo": "Bodegón",
+      "descripcion": "Óleo sobre lienzo",
+      "tecnica": "Óleo sobre lienzo",
+      "dimensiones": "60 × 80 cm"
+    },
+    {
+      "id": "p04",
+      "imagen": "/obras/murmullos-visuales.jpg",
+      "titulo": "Murmullos visuales",
+      "descripcion": "Acrílico sobre lienzo",
+      "tecnica": "Acrílico sobre lienzo",
+      "dimensiones": "50 × 100 cm"
+    },
+    {
+      "id": "p05",
+      "imagen": "/obras/estel.jpg",
+      "titulo": "Estel",
+      "descripcion": "Acrílico sobre lienzo",
+      "tecnica": "Acrílico sobre lienzo",
+      "dimensiones": "35 × 50 cm"
+    },
+    {
+      "id": "p06",
+      "imagen": "/obras/valparaiso.jpg",
+      "titulo": "Valparaíso",
+      "descripcion": "Acrílico sobre lienzo",
+      "tecnica": "Acrílico sobre lienzo",
+      "dimensiones": "60 × 80 cm"
+    },
+    {
+      "id": "p07",
+      "imagen": "/obras/memoria-translucida.jpg",
+      "titulo": "Memoria translúcida",
+      "descripcion": "Acrílico sobre madera",
+      "tecnica": "Acrílico sobre madera",
+      "dimensiones": "60 × 80 cm"
+    },
+    {
+      "id": "p08",
+      "imagen": "/obras/lagrimas-del-sol.jpg",
+      "titulo": "Lágrimas del sol",
+      "descripcion": "Acuarela",
+      "tecnica": "Acuarela",
+      "dimensiones": "40 × 40 cm"
+    },
+    {
+      "id": "p09",
+      "imagen": "/obras/alma-noble.jpg",
+      "titulo": "Alma noble",
+      "descripcion": "Acrílico sobre lienzo",
+      "tecnica": "Acrílico sobre lienzo",
+      "dimensiones": "20 × 30 cm"
+    },
+    {
+      "id": "p10",
+      "imagen": "/obras/la-hora-del-balcon.jpg",
+      "titulo": "La hora del balcón",
+      "descripcion": "Óleo sobre lienzo",
+      "tecnica": "Óleo sobre lienzo",
+      "dimensiones": "35 × 50 cm"
+    },
+    {
+      "id": "p11",
+      "imagen": "/obras/bubucella.jpg",
+      "titulo": "Bubucella",
+      "descripcion": "Acrílico sobre lienzo",
+      "tecnica": "Acrílico sobre lienzo",
+      "dimensiones": "22 × 35 cm"
+    },
+    {
+      "id": "p12",
+      "imagen": "/obras/miradas-al-vuelo.jpg",
+      "titulo": "Miradas al vuelo",
+      "descripcion": "Acuarela",
+      "tecnica": "Acuarela",
+      "dimensiones": "55 × 75 cm"
+    },
+    {
+      "id": "p13",
+      "imagen": "/obras/resonancias.jpg",
+      "titulo": "Resonancias",
+      "descripcion": "Acuarela",
+      "tecnica": "Acuarela",
+      "dimensiones": "35 × 45 cm"
+    },
+    {
+      "id": "p14",
+      "imagen": "/obras/tango.jpg",
+      "titulo": "Tango",
+      "descripcion": "Acrílico sobre lienzo",
+      "tecnica": "Acrílico sobre lienzo",
+      "dimensiones": "70 × 90 cm"
+    },
+    {
+      "id": "p15",
+      "imagen": "/obras/valdivia.jpg",
+      "titulo": "Valdivia",
+      "descripcion": "Acrílico sobre lienzo",
+      "tecnica": "Acrílico sobre lienzo",
+      "dimensiones": "70 × 90 cm"
+    },
+    {
+      "id": "p16",
+      "imagen": "/obras/retrato-doble.jpg",
+      "titulo": "Retrato doble",
+      "descripcion": "Acrílico sobre lienzo",
+      "tecnica": "Acrílico sobre lienzo",
+      "dimensiones": "100 × 120 cm"
+    },
+    {
+      "id": "p17",
+      "imagen": "/obras/la-pose.jpg",
+      "titulo": "La pose",
+      "descripcion": "Óleo sobre lienzo",
+      "tecnica": "Óleo sobre lienzo",
+      "dimensiones": "60 × 80 cm"
+    },
+    {
+      "id": "p18",
+      "imagen": "/obras/gato.jpg",
+      "titulo": "Gato",
+      "descripcion": "Acrílico sobre lienzo",
+      "tecnica": "Acrílico sobre lienzo",
+      "dimensiones": "30 × 40 cm"
+    },
+    {
+      "id": "p19",
+      "imagen": "/obras/la-compra.jpg",
+      "titulo": "La compra",
+      "descripcion": "Acuarela",
+      "tecnica": "Acuarela",
+      "dimensiones": "38 × 48 cm"
+    },
+    {
+      "id": "p20",
+      "imagen": "/obras/transparencia.jpg",
+      "titulo": "Transparencia",
+      "descripcion": "Acuarela",
+      "tecnica": "Acuarela",
+      "dimensiones": "38 × 50 cm"
+    },
+    {
+      "id": "p21",
+      "imagen": "/obras/mapuche.jpg",
+      "titulo": "Mapuche",
+      "descripcion": "Acrílico sobre lienzo",
+      "tecnica": "Acrílico sobre lienzo",
+      "dimensiones": "100 × 120 cm"
+    },
+    {
+      "id": "p22",
+      "imagen": "/obras/mis-pies.jpg",
+      "titulo": "Mis pies",
+      "descripcion": "Acrílico sobre lienzo",
+      "tecnica": "Acrílico sobre lienzo",
+      "dimensiones": "25 × 35 cm"
+    },
+    {
+      "id": "p23",
+      "imagen": "/obras/santiago.jpg",
+      "titulo": "Santiago",
+      "descripcion": "Acrílico sobre lienzo",
+      "tecnica": "Acrílico sobre lienzo",
+      "dimensiones": "100 × 110 cm"
+    },
+    {
+      "id": "p24",
+      "imagen": "/obras/transito.jpg",
+      "titulo": "Tránsito",
+      "descripcion": "Acuarela",
+      "tecnica": "Acuarela",
+      "dimensiones": "25 × 45 cm"
+    },
+    {
+      "id": "p25",
+      "imagen": "/obras/junior.jpg",
+      "titulo": "Junior",
+      "descripcion": "Acrílico sobre cartón tela",
+      "tecnica": "Acrílico sobre cartón tela",
+      "dimensiones": "Ø 40 cm"
+    }
+  ],
+  "artesanias": [
+    { "id": "a01", "imagen": "/obras/artesania_1.jpg", "titulo": "Artesanía I", "descripcion": "Pieza artesanal elaborada a mano" },
+    { "id": "a02", "imagen": "/obras/artesania_2.jpg", "titulo": "Artesanía II", "descripcion": "Pieza artesanal elaborada a mano" },
+    { "id": "a03", "imagen": "/obras/artesania_3.jpg", "titulo": "Artesanía III", "descripcion": "Pieza artesanal elaborada a mano" },
+    { "id": "a04", "imagen": "/obras/artesania_4.jpg", "titulo": "Artesanía IV", "descripcion": "Pieza artesanal elaborada a mano" },
+    { "id": "a05", "imagen": "/obras/artesania_5.jpg", "titulo": "Artesanía V", "descripcion": "Pieza artesanal elaborada a mano" },
+    { "id": "a06", "imagen": "/obras/artesania_6.jpg", "titulo": "Artesanía VI", "descripcion": "Pieza artesanal elaborada a mano" },
+    { "id": "a07", "imagen": "/obras/artesania_7.jpg", "titulo": "Artesanía VII", "descripcion": "Pieza artesanal elaborada a mano" },
+    { "id": "a08", "imagen": "/obras/artesania_8.jpg", "titulo": "Artesanía VIII", "descripcion": "Pieza artesanal elaborada a mano" },
+    { "id": "a09", "imagen": "/obras/artesania_9.jpg", "titulo": "Artesanía IX", "descripcion": "Pieza artesanal elaborada a mano" },
+    { "id": "a10", "imagen": "/obras/artesania_10.jpg", "titulo": "Artesanía X", "descripcion": "Pieza artesanal elaborada a mano" },
+    { "id": "a11", "imagen": "/obras/artesania_11.jpg", "titulo": "Artesanía XI", "descripcion": "Pieza artesanal elaborada a mano" },
+    { "id": "a12", "imagen": "/obras/artesania_12.jpg", "titulo": "Artesanía XII", "descripcion": "Pieza artesanal elaborada a mano" },
+    { "id": "a13", "imagen": "/obras/artesania_13.jpg", "titulo": "Artesanía XIII", "descripcion": "Pieza artesanal elaborada a mano" },
+    { "id": "a14", "imagen": "/obras/artesania_14.jpg", "titulo": "Artesanía XIV", "descripcion": "Pieza artesanal elaborada a mano" },
+    { "id": "a15", "imagen": "/obras/artesania_15.jpg", "titulo": "Artesanía XV", "descripcion": "Pieza artesanal elaborada a mano" },
+    { "id": "a16", "imagen": "/obras/artesania_16.jpg", "titulo": "Artesanía XVI", "descripcion": "Pieza artesanal elaborada a mano" },
+    { "id": "a17", "imagen": "/obras/artesania_17.jpg", "titulo": "Artesanía XVII", "descripcion": "Pieza artesanal elaborada a mano" },
+    { "id": "a18", "imagen": "/obras/artesania_18.jpg", "titulo": "Artesanía XVIII", "descripcion": "Pieza artesanal elaborada a mano" },
+    { "id": "a19", "imagen": "/obras/artesania_19.jpg", "titulo": "Artesanía XIX", "descripcion": "Pieza artesanal elaborada a mano" },
+    { "id": "a20", "imagen": "/obras/artesania_20.jpg", "titulo": "Artesanía XX", "descripcion": "Pieza artesanal elaborada a mano" }
+  ]
+}

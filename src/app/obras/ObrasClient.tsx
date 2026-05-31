@@ -64,7 +64,7 @@ export function ObrasClient({
               <div className="flex flex-wrap gap-x-4 gap-y-1 pt-2 text-xs font-medium text-stone-400 dark:text-stone-500">
                 {obra.technique && <span>{obra.technique}</span>}
                 {obra.dimensions && <span>{obra.dimensions}</span>}
-                {obra.year && <span>{obra.year}</span>}
+                
               </div>
             </div>
           </button>
