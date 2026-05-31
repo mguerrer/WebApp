@@ -11,7 +11,7 @@ export default function Home() {
     <>
       <section className="relative flex min-h-[80dvh] items-center justify-center overflow-hidden">
         <Image
-          src={featured[0].src}
+          src="/hero-bg.jpg"
           alt=""
           fill
           className="object-cover brightness-[0.35]"
