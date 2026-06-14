@@ -20,7 +20,7 @@ const classTypes = [
   {
     title: "Óleo",
     description:
-      "Pintura al óleo clásica y contemporánea. Manejo del color, la luz y la textura.",
+      "Pintura al óleo clásica y contemporánea. Manejo del color, la luz, la materialidad y textura.",
   },
   {
     title: "Vellón Bidimensional",
