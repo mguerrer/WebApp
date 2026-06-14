@@ -202,7 +202,7 @@
     }
   ],
   "artesanias": [
-    { "id": "a01", "imagen": "/obras/artesania_1.jpg", "titulo": "Artesanía I", "descripcion": "Pieza artesanal elaborada a mano" },
+    { "id": "a01", "imagen": "/obras/artesania_1.jpg", "titulo": "Abanicos de papel de arroz", "descripcion": "Técnica acrílico con stencil sobre papel de arroz" },
     { "id": "a02", "imagen": "/obras/artesania_2.jpg", "titulo": "Artesanía II", "descripcion": "Pieza artesanal elaborada a mano" },
     { "id": "a03", "imagen": "/obras/artesania_3.jpg", "titulo": "Artesanía III", "descripcion": "Pieza artesanal elaborada a mano" },
     { "id": "a04", "imagen": "/obras/artesania_4.jpg", "titulo": "Artesanía IV", "descripcion": "Pieza artesanal elaborada a mano" },
