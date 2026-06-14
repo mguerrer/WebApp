@@ -220,7 +220,7 @@
     { "id": "a16", "imagen": "/obras/artesania_16.jpg", "titulo": "Posavasos de tela agujada", "descripcion": "Técnica vellón bidimensional agujado sobre tela" },
     { "id": "a17", "imagen": "/obras/artesania_17.jpg", "titulo": "Peluche", "descripcion": "Técnica vellón tridimensional agujado" },
     { "id": "a18", "imagen": "/obras/artesania_18.jpg", "titulo": "Peluche", "descripcion": "Técnica vellón agujado tridimensional" },
-    { "id": "a19", "imagen": "/obras/artesania_19.jpg", "titulo": "Artesanía XIX", "descripcion": "Pieza artesanal elaborada a mano" },
+    { "id": "a19", "imagen": "/obras/artesania_19.jpg", "titulo": "Marca páginas", "descripcion": "Técnica acuarela" },
     { "id": "a20", "imagen": "/obras/artesania_20.jpg", "titulo": "Artesanía XX", "descripcion": "Pieza artesanal elaborada a mano" }
   ]
 }
