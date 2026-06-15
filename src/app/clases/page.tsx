@@ -35,7 +35,7 @@ const classTypes = [
   {
     title: "Manualidades y Artesanías",
     description:
-      "Talleres variados de técnicas manuales: papel hecho a mano, cerámica, tejido y más.",
+      "Talleres variados de técnicas manuales: tarjetería, posavasos, separadores de libro, bisutería artesanal, adornos, arte decorativa, mascarones de proa, abanicos, origami, cestería, etc.",
   },
 ];
 
